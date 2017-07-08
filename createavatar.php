@@ -9,7 +9,7 @@
 <body>
 
 <div class="w3-container w3-blue">
-<h1>openSIMULATOR Avatar Registration V079</h1>
+<h1>openSIMULATOR Avatar Registration</h1>
 </div>
 
 
