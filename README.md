@@ -12,16 +12,14 @@ Es brauchen deswegen keine Einstellungen im OpenSimulator oder im Robust vorgeno
 
 Der Nachteil ist der Avatar ist leer also eine Wolke.
 
-Im Inventar befinden sich aber das Standard Inventar, 
+Im Inventar befindet sich aber das Standard Inventar, 
 so das man seinen Avatar mit wenigen Klicks erstellen kann.
 
-Zum Upgraden oder zum erweitern von OS-SPLASH-PHP7_NEW, 
+Zum Upgraden oder zum erweitern von openSIMULATOR-SPLASH-PHP7, 
 
 wird nur die Datei createavatar.php benötigt alles andere könnt ihr so belassen.
 
 .
-
-### ACHTUNG es sind noch keine Sicherheitsabfragen drin.
 
 ### ACHTUNG Es wird in eure Datenbank geschrieben, Benutzung ausdrücklich auf eigene Gefahr!!!
 
