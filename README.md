@@ -1,15 +1,19 @@
 # Grid-Avatar-Registrierung-PHP7
 Eine Grid Avatar Registrierung für den OpenSimulator um einen neuen Benutzer in einer Virtuellen Welt anzulegen.
 
-Dies ist eine vorab Version die gerade im Testmodus läuft.
+Dies ist eine vorab Version die gerade im Testbetrieb läuft.
 
 Diese Registriert jetzt den Avatar und installiert die Verzeichnisse.
 
-Der Avatar ist aber eine Wolke also nicht wundern.
+Der unterschied zu anderen arten einen neuen Avatar anzulegen, 
+ist hier das direkte hineinschreiben in die Datenbank.
 
-Im Inventar unten unter OpenSim Library,
+Es brauchen deswegen keine Einstellungen im OpenSimulator oder im Robust vorgenommen werden.
 
-ist der Standard Avatar, sowie weitere Sachen zu finden.
+Der Nachteil ist der Avatar ist leer also eine Wolke.
+
+Im Inventar befinden sich aber das Standard Inventar, 
+so das man seinen Avatar mit wenigen Klicks erstellen kann.
 
 Zum Upgraden oder zum erweitern von OS-SPLASH-PHP7_NEW, 
 
